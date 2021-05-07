@@ -37,7 +37,7 @@
 			},
 			warning: {
 				color: 'orange',
-				icon: 'ico-warning'
+				icon: 'ico-hand-peace'
 			},
 			error: {
 				color: 'red',
